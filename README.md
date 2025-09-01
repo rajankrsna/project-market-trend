@@ -253,7 +253,7 @@ python -c "import psutil; print(f'Memory: {psutil.virtual_memory().percent}%')"
 
 ## 🎓 Course Alignment
 
-This project fulfills **all requirements** from the course document:
+This project fulfills these requirements from the course document:
 
 ### ✅ Core Requirements Met
 - [x] **Time Series Forecasting** (Prophet, ARIMA)
@@ -332,32 +332,7 @@ black *.py
 
 ---
 
-## 🏅 Project Success Criteria
 
-✅ **Implementation & Innovation (30 marks)**
-- Complete AI pipeline with all required techniques
-- Advanced features beyond basic requirements  
-- Clean, professional, production-ready code
-
-✅ **Functionality & Evaluation (20 marks)**  
-- Interactive dashboard with rich visualizations
-- Comprehensive testing and validation framework
-- Real-world dataset integration and processing
-
-✅ **Final Report & Presentation (20 marks)**
-- Detailed documentation and user guides
-- Business impact analysis and KPI tracking
-- Professional presentation of results and insights
-
-✅ **Proposal & Planning (20 marks)**
-- Clear system architecture and design
-- Comprehensive feature specification
-- Realistic timeline and milestone planning  
-
-✅ **Timely Submission & Participation (10 marks)**
-- Complete deliverable package ready for demo
-- Well-organized codebase with proper documentation
-- Professional GitHub repository structure
 
 ---
 
